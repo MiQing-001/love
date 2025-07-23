@@ -7,7 +7,7 @@ website is built with html and is open source.
 
 ### Languages & Skills
 
-[![My Langs](https://skillicons.dev/icons?i=Java,css)](https://skillicons.dev)
+[![My Langs](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ### Learning
 
