@@ -1,3 +1,9 @@
+<div>
+
+[**简体中文**](README_CN.md)
+
+</div>
+
 # About Me 
 This website is used to test fps
 website is built with html and is open source.
