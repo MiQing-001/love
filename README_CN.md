@@ -1,3 +1,9 @@
+<div>
+
+[**English**](README.md)
+
+</div>
+
 # 关于我
 本网站用于测试FPS
 网站使用HTML构建开源库
